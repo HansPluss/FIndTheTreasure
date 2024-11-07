@@ -222,6 +222,7 @@ public class InputHandler
     }
 }
 
+
 // Step 5: Testing the Command Pattern with Real-Time Input
 class Program
 {
