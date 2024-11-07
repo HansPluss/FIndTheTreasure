@@ -1,0 +1,15 @@
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\bin\Release\net6.0\CommandPatternTask.exe
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\bin\Release\net6.0\CommandPatternTask.deps.json
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\bin\Release\net6.0\CommandPatternTask.runtimeconfig.json
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\bin\Release\net6.0\CommandPatternTask.dll
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\bin\Release\net6.0\CommandPatternTask.pdb
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\obj\Release\net6.0\CommandPatternTask.csproj.AssemblyReference.cache
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\obj\Release\net6.0\CommandPatternTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\obj\Release\net6.0\CommandPatternTask.AssemblyInfoInputs.cache
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\obj\Release\net6.0\CommandPatternTask.AssemblyInfo.cs
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\obj\Release\net6.0\CommandPatternTask.csproj.CoreCompileInputs.cache
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\obj\Release\net6.0\CommandPatternTask.dll
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\obj\Release\net6.0\refint\CommandPatternTask.dll
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\obj\Release\net6.0\CommandPatternTask.pdb
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\obj\Release\net6.0\CommandPatternTask.genruntimeconfig.cache
+C:\Users\hansm\source\repos\CommandPatternTask\CommandPatternTask\obj\Release\net6.0\ref\CommandPatternTask.dll
