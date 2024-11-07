@@ -171,7 +171,7 @@ public class Player
     {
         Console.WriteLine($"Current X position: {xPos}");
         Console.WriteLine($"Current Y position: {yPos}");
-        //Console.Clear();
+        Console.Clear();
     }
 }
 
@@ -259,7 +259,7 @@ class Program
                 treasure.GenerateNewPosition(); // Move treasure to a new random position
             }
             
-            //Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
